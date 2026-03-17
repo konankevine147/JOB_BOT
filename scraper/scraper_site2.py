@@ -1,5 +1,5 @@
 """
-wttj_excel.py - Scraping WTTJ avec export Excel
+wttj_excel.py - Scraping WTTJ avec export Excelle
 """
 
 from wttj import scrape_offers
